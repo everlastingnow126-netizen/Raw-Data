@@ -8,7 +8,7 @@ Mechanistic insights into iRGD and α-melittin modified resveratrol liposomes fo
 
 [孙雪恒] (Sun Xue-heng)
 
-[曹文强] (Cao Wen-qiang)
+[曹文强] (Cao Wen-qiang) 【Responding author】
 
 ## Usage
 
