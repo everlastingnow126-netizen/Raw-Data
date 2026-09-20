@@ -34,9 +34,7 @@ Mass Spectrometry Data (kbd file)
 ROI Analysis data (imd file)
 These datasets contain pre-processing and visualization of raw MS data. With Imaging MS solutions, you can open the following data:
 
--Spatial distribution and abundance of fatty acyls molecular ions across the melanoma tissue sections between the control and pharmaceutical formulation treated groups mice. 
-Data: https://pan.baidu.com/s/1v-C1q1M_3BD1X8wkhA8Blg?pwd=5555 . 
-ROI analyses.Data: https://pan.baidu.com/s/1i9dVotXqaXwE1ibC4VT6qQ?pwd=5555
+-Spatial distribution and abundance of fatty acyls molecular ions across the melanoma tissue sections between the control and pharmaceutical formulation treated groups mice. Data: https://pan.baidu.com/s/1v-C1q1M_3BD1X8wkhA8Blg?pwd=5555 . ROI analyses.Data: https://pan.baidu.com/s/1i9dVotXqaXwE1ibC4VT6qQ?pwd=5555
 
 -Spatial distribution and abundance of sphingolipids molecular ions across the melanoma tissue sections between the control and pharmaceutical formulation treated groups mice. 
 Data: https://pan.baidu.com/s/1qBBgZYxTzhv5fh4TVXDmZA?pwd=5555  
